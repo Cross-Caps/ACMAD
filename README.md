@@ -17,12 +17,12 @@ Investigating Acoustic Cues for Multilingual Abuse Detection
 
 ## Feature Extraction
 
-- Download the extracted language and emotion features of [ADIMA](https://sharechat.com/research/adima) dataset from [here](https://tinyurl.com/extractedfeatures) 
+- Download the extracted language and emotion features of [ADIMA](https://sharechat.com/research/adima) dataset from [here](https://tinyurl.com/extractedfeatures). 
 
 ## Training and Testing
 
-- For training the model from scratch; see [Script](./train.py)
-- For testing the model using our best saved checkpoint; see [Script](./test.py)
+- For training the model from scratch; see [Script](./train.py).
+- For testing the model using our best saved checkpoint; see [Script](./test.py).
 
 ## Contact
 
