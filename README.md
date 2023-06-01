@@ -14,3 +14,18 @@
 
 Code to acompanying Interspeech-23 Paper:
 Investigating Acoustic Cues for Multilingual Abuse Detection
+
+## Feature Extraction
+
+- Download the extracted language and emotion features of [ADIMA](https://sharechat.com/research/adima) dataset from [here](https://tinyurl.com/extractedfeatures) 
+
+## Training and Testing
+
+- For training the model from scratch; see [Script](./train.py)
+- For testing the model using our best saved checkpoint; see [Script](./test.py)
+
+## Contact
+
+Yash Thakran <yash20269@iiitd.ac.in>
+
+Vinayak Abrol <abrol@iiitd.ac.in>
